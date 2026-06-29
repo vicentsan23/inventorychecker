@@ -1,16 +1,12 @@
-# React + Vite
+# 📦 inventoryChecker - Sistema de Gestión de Bodega
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Una **Single Page Application (SPA)** moderna construida en React y Vite para la gestión y control eficiente del inventario de una bodega. Este proyecto resuelve la problemática de mercado del quiebre de stock y optimiza la cadena de suministro local mediante alertas críticas en tiempo real.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎨 Características Principales & UX/UI
+* **Diseño Corporativo & Responsive:** Desarrollado bajo enfoque *Mobile-First* utilizando **Bootstrap 5**, adaptando la interfaz de forma fluida a dispositivos móviles y de escritorio.
+* **Paleta de Colores Profesional:** Se aplicó una identidad visual basada en un tono **Verde Petróleo Oscuro (#1a434d)**, otorgando una estética limpia, corporativa y simétrica alineada al boceto inicial.
+* **Dashboard de Resumen Rápido:** Vista principal con métricas clave en tiempo real, incluyendo artículos de mayor rotación y un **Panel Crítico** automatizado para productos con stock bajo.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
